@@ -1,2 +1,2 @@
 # Clone Spotify
-- Fiz um clone do site do Spotify somente com HTML & CSS. 
+- Fiz um clone do Spotify somente com HTML & CSS. 
